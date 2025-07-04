@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolov8/dataset/train
+val: /content/drive/MyDrive/yolov8/dataset/val
+test: /content/drive/MyDrive/yolov8/dataset/test
+
+nc: 1
+names: [weed]
